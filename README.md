@@ -6,7 +6,7 @@ Welcome to the Interactive Picture project! This project aim was to build a full
 
 ## 🌐 Link to the App.
 
-Should you wish to take a look to the deployed app, [feel free to visit the link here](https://yarapaz.github.io/js-clock/)
+Should you wish to take a look to the deployed app, [feel free to visit the link here](https://yarapaz.github.io/interactive-picture/)
 
 ## 🗂️ Content
 
