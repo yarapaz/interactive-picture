@@ -57,7 +57,7 @@ I didt not use Sass this time to be able to change the css variables directly wi
 To start using this project clone this repo to a new directory.
 
 > ```console
->  $ git clone https://github.com/yarapaz/js-clock.git
+>  $ git clone https://github.com/yarapaz/interactive-picture.git
 > ```
 
 ### ➡️ Start the project
