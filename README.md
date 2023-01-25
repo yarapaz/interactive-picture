@@ -24,7 +24,7 @@ Should you wish to take a look to the deployed app, [feel free to visit the link
 ```
 /
 |
-|     |– html
+|     |– index.html
 |     |– images
 |     |– javascript
 |     |– stylesheets
@@ -39,8 +39,7 @@ Should you wish to take a look to the deployed app, [feel free to visit the link
 ```
 /
 |
-|     |– html
-|       |– index.html
+|     |– index.html
 |     |– images
 |     |– javaScript
 |     |– stylesheets
@@ -49,7 +48,7 @@ Should you wish to take a look to the deployed app, [feel free to visit the link
 
 ### ✳️ SASS
 
-I didt not use Sass this time in order to be able to change the css variables directly without losing the information whe compiling.
+I didt not use Sass this time to be able to change the css variables directly without losing the information when compiling.
 
 ## 🚀 How to run the Apps.
 
