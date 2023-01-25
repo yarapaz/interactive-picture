@@ -9,22 +9,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive Picture</title>
     <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="../css/reset.css">
     <link rel="stylesheet" href="../css/main.css">
 </head>
 
 <body class="body">
-    <h1>Interactive <span class="h1">Picture</span></h1>
-    <section class="commands_section">
-        <label for="spacing">Spacing:</label>
-        <input type="range" name="spacing" id="spacing" min="10" max="200" value="10" data-sizing="px">
-        <label for="blur">Blur:</label>
-        <input type="range" name="blur" id="blur" min="0" max="25" value="10" data-sizing="px">
-        <label for="base">Base Color:</label>
-        <input type="color" name="base" id="base" value="#ffc0cb">
-    </section>
-    <section class="picture_section">
-        <div class="img_wrapper"><img class="img" src="../images/main-picture.jpg" alt="Main Picture"></div>
-    </section>
+    <main class="main">
+        <h1 class="title">Interactive <span class="hl">Picture</span></h1>
+        <section class="commands_section">
+            <label for="spacing">Spacing:</label>
+            <input type="range" name="spacing" id="spacing" min="10" max="200" value="10" data-sizing="px">
+            <label for="blur">Blur:</label>
+            <input type="range" name="blur" id="blur" min="0" max="25" value="10" data-sizing="px">
+            <label for="base">Base Color:</label>
+            <input type="color" name="base" id="base" value="#ffc0cb">
+        </section>
+        <section class="picture_section">
+            <div class="img_wrapper"><img class="img" src="../images/main-picture.jpg" alt="Main Picture"></div>
+        </section>
+    </main>
+    <script src="../js/main.js"></script>
 </body>
 
 </html>
